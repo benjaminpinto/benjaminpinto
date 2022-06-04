@@ -3,6 +3,7 @@
 <h3 align="center">Cypress Developer</h3>
 
 ## About me
+- 🏠 Brazilian, living at Paraíba state; 
 - 🔎 Quality Assurance analist at Labour Court of 13th Region - Brazil/PB;
 - 🤖 Automated **Cypress** tests developer;
 - 💻 Also experienced with: SQL, Git, Jira, DEV Team lead, Agile methodologies
