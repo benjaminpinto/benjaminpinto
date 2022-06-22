@@ -5,7 +5,7 @@
 ## About me
 - 🏠 Brazilian, living at Paraíba state; 
 - 🔎 Quality Assurance analist at Labour Court of 13th Region - Brazil/PB;
-- 🤖 Automated **Cypress** tests developer;
+- 🤖 Automated tests developer with **Cypress**;
 - 💻 Also experienced with: SQL, Git, Jira, DEV Team lead, Agile methodologies
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
