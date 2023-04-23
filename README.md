@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Benjamin Pinto</h1>
 <h3 align="center">QA Automation Engineer</h3>
-<h3 align="center">Selenium & Cypress Developer [js/ts]</h3>
+<h3 align="center">Selenium & Cypress Developer [Typescript]</h3>
 
 ## About me
 
 - 🏠 Brazilian, living at Paraíba state;
-- 🔎 QA Automation Engineer at Labour Court of 13th Region - Brazil/PB;
-- 🤖 Automated tests developer with **Cypress**;
-- 💻 Also experienced with: SQL, Git, Jira, DEV Team leadership, Agile methodologies;
-- 🌱 Currently learning Playwright;
+- 🔎 QA Automation Engineer;
+- 🤖 Automated tests developer with **Selenium and Cypress**;
+- 💻 Also experienced with: SQL, Git, Jira, Postman, Agile methodologies;
+- 🌱 Currently learning Playwright and Angular;
   <br><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminpinto&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
