@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Pinto</h1>
 <h3 align="center">QA Automation Engineer</h3>
-<h3 align="center">Cypress Developer [js/ts]</h3>
+<h3 align="center">Selenium & Cypress Developer [js/ts]</h3>
 
 ## About me
 
